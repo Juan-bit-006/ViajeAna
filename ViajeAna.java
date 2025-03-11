@@ -34,9 +34,8 @@ System.out.println("El precio del Ticket para Ana es " +precioFinal);
 if (edad >=15) { 
 precioFinal = precio_tiquete;
 System.out.println("El precio del ticket para Ana es  " +precioFinal );
-}
 
-        }   
-    
+}
+}       
 }
 }
